@@ -21,7 +21,7 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL Live Server: [GitHub Pages](https://ryanwilll.github.io/NLW-Copa-RocketSeat/)
+- URL Live Server: [GitHub Pages](https://ryanwilll.github.io/StatsPreviewCard//)
 
 ```html
 <h1>Algum código HTML do qual me orgulho</h1>
@@ -38,4 +38,3 @@ const proudOfThisFunc = () => {
   console.log("🎉");
 };
 ```
-# StatsPreviewCard
